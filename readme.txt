@@ -1,5 +1,5 @@
 Flight_Planner Executable
-
+developed by Bashar Alsadik. University of Twente - Netherlands.
 1. Prerequisites for Deployment 
 
 Verify that version 9.7 (R2019b) of the MATLAB Runtime is installed.   
